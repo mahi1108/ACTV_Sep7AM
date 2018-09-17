@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ecn">దేశం పేరుని నమోదు చేయండి</string>
+
+    <string name="app_name">ACTV_Sep7AM</string>
+    <string-array name="countries">
+        <item>ఆస్ట్రేలియా</item>
+        <item>బంగ్లాదేశ్</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Indonasia</item>
+        <item>Brazil</item>
+    </string-array>
+</resources>
